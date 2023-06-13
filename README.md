@@ -8,7 +8,7 @@ In order to study the different ways of compressing images, we looked at JPEG co
 
 ## Implementation
 
-To carry out this tutorial, I started by coding the functions that enable the various stages of JPEG compression to be carried out. Then I started by encoding black and white images: this allowed me to work on a single dimension and check that everything was working correctly.
+To carry out this lab, I started by coding the functions that enable the various stages of JPEG compression to be carried out. Then I started by encoding black and white images: this allowed me to work on a single dimension and check that everything was working correctly.
 
 Once this was done, I encoded the images in colour and chrominance.
 
