@@ -1,6 +1,6 @@
 # Compression : AutoEncoder
 
-**(:fr: French Version below :fr:)**
+**(🇫🇷 French Version below 🇫🇷)**
 
 ## Aim of the lab
 
