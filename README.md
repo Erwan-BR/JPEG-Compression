@@ -1,4 +1,4 @@
-# Compression : AutoEncoder
+# JPEG Compression
 
 **(🇫🇷 French Version below 🇫🇷)**
 
